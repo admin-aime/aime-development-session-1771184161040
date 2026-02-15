@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "project": {
+    "name": "app",
+    "stack": [],
+    "createdAt": "2026-02-15T19:36:40.395Z"
+  },
+  "files": {
+    "package.json": {
+      "lines": 26,
+      "lastModified": "2026-02-15T19:36:45.890Z",
+      "summary": "Package configuration",
+      "exports": [],
+      "imports": []
+    },
+    "vite.config.ts": {
+      "lines": 7,
+      "lastModified": "2026-02-15T19:37:26.597Z",
+      "summary": "Configuration file",
+      "exports": [
+        "default:defineConfig"
+      ],
+      "imports": [
+        "vite",
+        "@vitejs/plugin-react"
+      ]
+    },
+    "tsconfig.json": {
+      "lines": 22,
+      "lastModified": "2026-02-15T19:37:26.604Z",
+      "summary": "TypeScript configuration",
+      "exports": [],
+      "imports": []
+    },
+    "tsconfig.node.json": {
+      "lines": 11,
+      "lastModified": "2026-02-15T19:37:26.613Z",
+      "summary": "Configuration file",
+      "exports": [],
+      "imports": []
+    },
+    "tailwind.config.js": {
+      "lines": 12,
+      "lastModified": "2026-02-15T19:37:26.620Z",
+      "summary": "Configuration file",
+      "exports": [
+        "default"
+      ],
+      "imports": []
+    },
+    "postcss.config.js": {
+      "lines": 7,
+      "lastModified": "2026-02-15T19:37:26.626Z",
+      "summary": "Configuration file",
+      "exports": [
+        "default"
+      ],
+      "imports": []
+    },
+    "index.html": {
+      "lines": 14,
+      "lastModified": "2026-02-15T19:37:26.633Z",
+      "summary": "HTML entry point",
+      "exports": [],
+      "imports": []
+    },
+    "src/main.tsx": {
+      "lines": 11,
+      "lastModified": "2026-02-15T19:37:26.641Z",
+      "summary": "main component",
+      "exports": [],
+      "imports": [
+        "react",
+        "react-dom/client",
+        "./App.tsx",
+        "./index.css"
+      ]
+    },
+    "src/App.tsx": {
+      "lines": 17,
+      "lastModified": "2026-02-15T20:09:25.124Z",
+      "summary": "App component",
+      "exports": [
+        "default:App"
+      ],
+      "imports": []
+    },
+    "src/index.css": {
+      "lines": 14,
+      "lastModified": "2026-02-15T19:37:26.655Z",
+      "summary": "Stylesheet",
+      "exports": [],
+      "imports": []
+    }
+  },
+  "dependencies": {},
+  "recentChanges": [
+    {
+      "timestamp": "2026-02-15T20:09:25.123Z",
+      "file": "src/App.tsx",
+      "change": "Updated src/App.tsx",
+      "type": "modify"
+    },
+    {
+      "timestamp": "2026-02-15T20:09:20.150Z",
+      "file": "src/App.tsx",
+      "change": "Patched src/App.tsx",
+      "type": "modify"
+    },
+    {
+      "timestamp": "2026-02-15T19:49:48.678Z",
+      "file": "src/App.tsx",
+      "change": "Patched src/App.tsx",
+      "type": "modify"
+    },
+    {
+      "timestamp": "2026-02-15T19:47:14.539Z",
+      "file": "src/App.tsx",
+      "change": "Patched src/App.tsx",
+      "type": "modify"
+    },
+    {
+      "timestamp": "2026-02-15T19:43:57.949Z",
+      "file": "src/App.tsx",
+      "change": "Patched src/App.tsx",
+      "type": "modify"
+    },
+    {
+      "timestamp": "2026-02-15T19:41:02.665Z",
+      "file": "src/App.tsx",
+      "change": "Patched src/App.tsx",
+      "type": "modify"
+    },
+    {
+      "timestamp": "2026-02-15T19:37:26.654Z",
+      "file": "src/index.css",
+      "change": "Updated src/index.css",
+      "type": "modify"
+    },
+    {
+      "timestamp": "2026-02-15T19:37:26.647Z",
+      "file": "src/App.tsx",
+      "change": "Updated src/App.tsx",
+      "type": "modify"
+    },
+    {
+      "timestamp": "2026-02-15T19:37:26.640Z",
+      "file": "src/main.tsx",
+      "change": "Updated src/main.tsx",
+      "type": "modify"
+    },
+    {
+      "timestamp": "2026-02-15T19:37:26.633Z",
+      "file": "index.html",
+      "change": "Updated index.html",
+      "type": "modify"
+    }
+  ]
+}
